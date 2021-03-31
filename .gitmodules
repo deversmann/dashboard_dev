@@ -1,0 +1,9 @@
+[submodule "cta_train_widget"]
+	path = cta_train_widget
+	url = https://gist.github.com/deversmann/6c5ccb54433bf13fc64273f4706d771b
+[submodule "cta_bus_widget"]
+	path = cta_bus_widget
+	url = https://gist.github.com/deversmann/e0ffa81df3e25171f993b1bc40c91b18
+[submodule "whos_home_widget"]
+	path = whos_home_widget
+	url = https://gist.github.com/deversmann/f4dee0bb7dfec1d63f6de3338856d5c7
